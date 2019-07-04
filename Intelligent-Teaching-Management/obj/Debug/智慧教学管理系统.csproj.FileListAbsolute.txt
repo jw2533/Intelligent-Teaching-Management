@@ -1,0 +1,46 @@
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.pdb
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.csprojResolveAssemblyReference.cache
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.Properties.Resources.resources
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.csproj.GenerateResource.Cache
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+F:\工作\淘宝\C#\16.10.29\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.pdb
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.csprojResolveAssemblyReference.cache
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.Form1.resources
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.Properties.Resources.resources
+F:\工作\淘宝\C#\16.10.30\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.csproj.GenerateResource.Cache
+C:\Users\liekk\Desktop\智慧教学管理系统\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+C:\Users\liekk\Desktop\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+C:\Users\liekk\Desktop\智慧教学管理系统\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.pdb
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Form1.resources
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Properties.Resources.resources
+C:\Users\lenovo\Documents\Tencent Files\565252839\FileRecv\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.csproj.GenerateResource.Cache
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.pdb
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.csprojResolveAssemblyReference.cache
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Form1.resources
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Properties.Resources.resources
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.csproj.GenerateResource.Cache
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+C:\Users\liekk\Desktop\发邮件数据结构\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe.config
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.exe
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.pdb
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.exe
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\bin\Debug\智慧教学管理系统.pdb
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.csprojResolveAssemblyReference.cache
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Form1.resources
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.Properties.Resources.resources
+E:\vs工程\界面+发邮件+信息修改版\新版数据结构\智慧教学管理系统\obj\Debug\智慧教学管理系统.csproj.GenerateResource.Cache
